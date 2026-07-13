@@ -57,3 +57,4 @@
 | [Boytacean](https://github.com/joamag/boytacean) | Rust | A Game Boy emulator that is written in Rust, with a beautiful Web interface that makes use of WASM. |
 | [Gameboy](https://github.com/raphamorim/gameboy) | Rust | Game Boy emulator written in Rust that runs as a desktop application or in the browser through WebAssembly |
 | [MagenBoy](https://github.com/alloncm/MagenBoy) | Rust | Cross-platform GB & GBC emulator with support for bare-metal RaspberryPi with custom hardware |
+| [oxGBC](https://github.com/mxmgorin/oxgbc) | Rust | Cross-platform, accuracy-focused GB & GBC emulator (passes Blargg, Mooneye, SameSuite & acid2 tests) with save states, rewind, shaders, and a tile viewer |
